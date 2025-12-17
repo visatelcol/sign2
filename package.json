@@ -1,5 +1,5 @@
 {
-  "name": "pdf-sign-mvp",
+  "name": "sign2",
   "private": true,
   "version": "1.0.0",
   "scripts": {
@@ -13,9 +13,8 @@
     "react-dom": "18.2.0",
     "pdf-lib": "^1.17.1",
     "react-signature-canvas": "^1.0.6",
-    "nodemailer": "^6.9.8"
-  },
-  "devDependencies": {
+    "nodemailer": "^6.9.8",
+
     "typescript": "^5.5.4",
     "@types/node": "^20.12.12",
     "@types/react": "^18.2.66"
